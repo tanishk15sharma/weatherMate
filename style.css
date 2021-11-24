@@ -1,0 +1,30 @@
+.app-container {
+    margin: auto;
+    width: 50%;
+    border: 3px solid grey;
+    height: 60vh;
+    background-color: ghostwhite;
+    padding: 3rem;
+    
+ }
+#userdiv{
+    text-align: center;
+}
+
+ body {
+     background-color: gainsboro;
+ }
+ #place {
+     text-align: center;
+ }
+ #tempdiv {
+     border: 2px solid;
+     width: 40%;
+ }
+ #speeddiv{
+    border: 2px solid;
+    width: 40%;
+
+    
+ }
+ 
